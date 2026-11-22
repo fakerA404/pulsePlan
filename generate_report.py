@@ -13,9 +13,9 @@ from reportlab.lib.units import mm
 from reportlab.platypus import Image, KeepTogether, PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 # ---- Submission details -------------------------------------------------------
-REPOSITORY_URL = "https://github.com/fakerA404/web-assignment-pulseplan"
-DEPLOYMENT_URL = ""  # e.g. https://pulseplan.vercel.app
-FINAL_COMMIT = ""    # hash of the final pushed commit
+REPOSITORY_URL = "https://github.com/fakerA404/pulsePlan"
+DEPLOYMENT_URL = "https://pulse-plan-eight.vercel.app/"
+FINAL_COMMIT = "89d4ff1b61a35cf500e8f9aaff6301445e3e4678"
 # -------------------------------------------------------------------------------
 
 ROOT = Path(__file__).resolve().parent

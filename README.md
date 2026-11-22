@@ -5,9 +5,9 @@
 PulsePlan is a fictional small-group fitness studio in Islamabad (F-7 and G-8). The website lets adults and university students browse 12 weekly sessions, search, filter and sort them, open session details, build a plan with attendee counts, register a lead participant, review a calculated total and reach a simulated confirmation.
 
 ## Links
-- GitHub: https://github.com/fakerA404/web-assignment-pulseplan
-- Deployment: _add the public deployment URL before submission_
-- Final commit: _add the hash of the final pushed commit_
+- GitHub: https://github.com/fakerA404/pulsePlan
+- Deployment: https://pulse-plan-eight.vercel.app/
+- Final commit: 89d4ff1b61a35cf500e8f9aaff6301445e3e4678 (last code commit; later commits only update submission links and the report)
 
 ## Setup and commands
 Requires Node.js 20 or newer.
