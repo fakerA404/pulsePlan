@@ -109,14 +109,14 @@ story += [PageBreak(), Paragraph("4. Reference-site investigation", styles["Head
           Paragraph("Observed = what was seen on the site. Consequence = our interpretation, not measured data.", styles["Small"]),
           Spacer(1, 2 * mm)]
 problems = [
-    ("Problem 1 - Comparison details missing from listings", "https://www.mindbodyonline.com", "reference-1.png",
+    ("Problem 1 - Comparison details missing from listings", "https://www.mindbodyonline.com/explore", "reference-1.png",
      "Find a suitable class to book.",
-     "Class listings need extra navigation to compare level, location and conditions.",
+     "'Find your new favorite' cards show price, time and distance but no class level or conditions; long titles are cut off (e.g. 'Yoga Sculpt (Full B...').",
      "Users may give up before finding a suitable class.",
      "Cards show type, level, time, duration, location, price and spots left together (Decision 2)."),
-    ("Problem 2 - Availability and restrictions appear late", "https://classpass.com", "reference-2.png",
+    ("Problem 2 - Availability and restrictions appear late", "https://www.mindbodyonline.com/explore (Last-minute fitness offers)", "reference-2.png",
      "Complete a booking for a chosen class.",
-     "Capacity and eligibility limits appear during selection rather than up front.",
+     "Last-minute offer cards show no spots left or restrictions, so capacity is only discovered after opening a class.",
      "Users spend time on options they cannot book and may leave.",
      "Spots and rules are shown on cards, details and beside inputs; full sessions and invalid quantities are blocked."),
     ("Problem 3 - Navigation and forms lose progress", "https://www.onepeloton.com/classes", "reference-3.png",
